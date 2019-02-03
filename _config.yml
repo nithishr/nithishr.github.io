@@ -38,16 +38,17 @@ google:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            nithishr
 # facebook:           username
+linkedin:           nithishr1
 github-url:         nithishr
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          nithishr1
 #xing:              username
+devpost:            nithishr
+medium:            '@nithishr'
+twitter:            nithishr
 instagram:          nithishr
 #lastfm:            username
 #tumblr:            username
-medium:            '@nithishr'
 #pinterest:         username
 #foursquare:        username
 # steam:              username
@@ -61,7 +62,6 @@ youtube:           getnithishr
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-devpost:            nithishr
 
 # Gems
 gems:
