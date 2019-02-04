@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "MathJax Example"
-date:   2015-08-10
-excerpt: "MathJax Example for Moon Jekyll Theme."
+title: MathJax Example
+date: 2015-08-10 00:00:00 +0000
+excerpt: MathJax Example for Moon Jekyll Theme.
 tag:
-- markdown 
+- markdown
 - mathjax
 - example
 - test
 - jekyll
 comments: true
----
 
+---
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
 ## Usage
