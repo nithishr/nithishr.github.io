@@ -44,7 +44,7 @@ github-url:         nithishr
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #xing:              username
 devpost:            nithishr
-medium:            '@nithishr'
+medium:             '@nithishr'
 twitter:            nithishr
 instagram:          nithishr
 goodreads:          nithishr
@@ -52,9 +52,9 @@ goodreads:          nithishr
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-# steam:              username
+#steam:            username
 #dribbble:          username
-youtube:           getnithishr
+youtube:            getnithishr
 # youtube-channel:  NithishR
 #soundcloud:        username
 #weibo:             username
@@ -63,6 +63,8 @@ youtube:           getnithishr
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+slideshare:         nithishrw
+meetup:             191261410
 
 # Gems
 gems:
