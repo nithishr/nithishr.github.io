@@ -8,9 +8,7 @@ comments: false
 published: true
 
 ---
-<figure>
-	<img src="assets/img/pic.jpg">
-</figure>
+<img src="nithishr.com/assets/img/pic.jpg">
 
 ### I am Nithish, an Engineer with a background in diverse areas including Software Engineering, Dev Ops, Lean Startups, Design Thinking, Data Engineering & Machine Learning.  I love to build products that solve real problems in short spans of time. In my free time, I like to read, hack stuff, attend local tech events, travel & follow Olympic sports.
 
