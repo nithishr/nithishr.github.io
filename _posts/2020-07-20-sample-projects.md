@@ -11,7 +11,7 @@ tag:
 - slackbot
 - hobby
 comments: false
-feature: /assets/img/projects/project_feature.jpeg
+feature: /assets/img/projects/project_feature.jpg
 ---
 
 Hodor: Controlling the office door from the Internet
@@ -30,7 +30,7 @@ You can read more about it on the [blog post](https://medium.com/ki-labs-enginee
 
 Just a Little Longer: Hardware based Parental Control System for Kids
 -----
-This was developed over the weekend during Code TwentyFour, hackathon organized by ProSieben in Munich. JaLL enables kids to consume content on smartphones or smart TVs using physical coins based on NFC similar to a piggy bank. Parents could monitor and set limits on what content could be consumed by the kids. 
+This was developed over the weekend during Code TwentyFour, the hackathon organized by ProSieben in Munich. JaLL enables kids to consume content on smartphones or smart TVs using physical coins based on NFC similar to a piggy bank. Parents could monitor and set limits on what content could be consumed by the kids. 
 
 This project was adjudged the best project at the hackathon :)
 
@@ -45,3 +45,18 @@ JaLL being tested by prospective consumer. The audio is partially in German.
 
 You can read more about it on the [project page](https://devpost.com/software/just-a-little-longer)
 
+ViewfAInder: Buy What you see on TV
+-----
+This was developed over the weekend during 7Hack, the hackathon organized by ProSieben in Munich. ViewfAInder is an AI (computer vision) based system that enables you to pause your TV show to discover articles shown on the show that you can buy online. 
+
+For the hackathon, we developed a browser plugin that would enable you to pause content on the PC. We take a screenshot of the content and then analyze it for products (holiday location, clothes, etc) and provide their links from the hackathon sponsors in an overlay over the video.
+
+This project was one of the best projects at the hackathon :)
+
+<figure class="half">
+    <img src="/assets/img/projects/viewfAInder.jpg">
+    <img src="/assets/img/projects/viewfAInder_architecture.png">
+    <figcaption>ViewfAInder</figcaption>
+</figure>
+
+You can read more about it on the [project page](https://devpost.com/software/viewfainder)
