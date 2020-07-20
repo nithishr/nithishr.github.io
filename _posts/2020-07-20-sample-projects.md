@@ -108,3 +108,13 @@ We built an app that captures messages from different messaging applications lik
 This project was awared the best project using [Algolia](https://www.algolia.com/) at the [jacobsHack!](https://jacobshack.com/). 
 
 More can be read about the project on the [project page](https://devpost.com/software/message-hub)
+
+Gesture Based Computing
+----
+Gesture based computing was developed during my undergraduate course. We developed a computer vision based system using color markers to control the computer. The gestures could be configured and adjusted according to the users' preferences. There were gestures for common use cases like opening the browser, image viewer, video player, controlling the mouse and keyboard among other gestures. 
+
+An overview of some of the gestures can be seen in this video. 
+<iframe width="560" height="315" src="//www.youtube.com/embed/nwgK-jifuY4" frameborder="0"> </iframe>
+
+The results of the project are published in the [IJCA Special Issue on Advanced 
+Computing and Communication Technologies for HPC Applications](https://www.ijcaonline.org/specialissues/accthpca/number4/7578-1032)
