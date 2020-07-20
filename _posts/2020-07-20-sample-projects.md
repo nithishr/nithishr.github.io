@@ -46,6 +46,16 @@ You can read more about it on the [blog post](https://medium.com/ki-labs-enginee
 [Code](https://github.com/nithishr/Hodor)
 
 
+Sign 2 Speech: Sign Language Interpretation for Speech Impaired
+-----
+Sign 2 Speech provides a communication solution to hearing impaired or mute people. It empowers them to navigate every day social environments by translating gestures to speech. This was developed during, [Think.Make.Start](https://www.thinkmakestart.com/), a two week inter-disciplinary course on product development at the Technical University of Munich. 
+
+The gesture recognition was done based on the electromyography (EMG) sensors present in Myo armband. The arm band could be used to detect gestures based on the muscle movement and these gestures could be customized by the user. The gestures once recognized would trigger the speech using a portable speaker or the smartphone.
+
+You can watch a short demo of it being used by speech impaired people. <iframe width="560" height="315" src="//www.youtube.com/embed/i0AWo0em9J4" frameborder="0"> </iframe>
+
+The project was adjudeged as one of the best projects in the cohort.
+
 Just a Little Longer: Hardware based Parental Control System for Kids
 -----
 This was developed over the weekend during Code TwentyFour, the hackathon organized by ProSieben in Munich. JaLL enables kids to consume content on smartphones or smart TVs using physical coins based on NFC similar to a piggy bank. Parents could monitor and set limits on what content could be consumed by the kids. 
