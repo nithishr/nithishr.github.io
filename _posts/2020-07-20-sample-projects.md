@@ -10,9 +10,27 @@ tag:
 - hack
 - slackbot
 - hobby
+- machine learning
 comments: false
 feature: /assets/img/projects/project_feature.jpg
 ---
+
+Ariadne: Lifehack for the Munich Public Transportation
+-----
+Google Maps / MVV (Munich Public Transportation) can give you the directions to your destination. But once you arrive at the destination, especially using the Metro / Suburban Rail, there is a multitude of exits. Choosing an exit among the choices is not trivial at all times. This could take up to 5-10 minutes per journey.
+
+We built Ariadne which suggests the closest exits to your destination for the public transportation. It also recommends the part of the train you need to board to be close to the suggested exit. The users can provide feedback about the suggestions that can improve the system. Additionally, we developed the ability to navigate indoors without the use of any infrastructure using mobile phone sensors. 
+
+This project was developed initially during the [hackatum](https://hack.tum.de/), the annual hackathon from Technical University of Munich. Based on the positive feedback we received, we pursued it further including pitching it to some business customers like the German rail company, Deutsche Bahn. We also secured 2nd place in the [Mobility Innovation Competition @ Campus](http://zentrum-digitalisierung.bayern/micc-mobility-innovation-competition-campus-2017/) held by the Center for Digitalization, Bavaria State. 
+
+You can watch a video that showcases some of the ideas. 
+<iframe width="560" height="315" src="//www.youtube.com/embed/AN9Ly8vFv-Y" frameborder="0"> </iframe>
+
+Alexa Skill for Ariadne
+----
+A prototypical voice skill was also tested for Ariadne. It was implemented mainly to learn about how voice skills were developed for Amazon Echo.
+<iframe width="560" height="315" src="//www.youtube.com/embed/zzZjqM-rD2E" frameborder="0"> </iframe>
+
 
 Hodor: Controlling the office door from the Internet
 -----
@@ -31,6 +49,8 @@ You can read more about it on the [blog post](https://medium.com/ki-labs-enginee
 Just a Little Longer: Hardware based Parental Control System for Kids
 -----
 This was developed over the weekend during Code TwentyFour, the hackathon organized by ProSieben in Munich. JaLL enables kids to consume content on smartphones or smart TVs using physical coins based on NFC similar to a piggy bank. Parents could monitor and set limits on what content could be consumed by the kids. 
+
+The NFC based tokens were read by the reader placed inside the piggybank and allowed kids to consume mdeia for the specified amount of time. The content was played inside a frontend which enabled us to control the media playback based on the validity of tokens governed by a backend API.
 
 This project was adjudged the best project at the hackathon :)
 
