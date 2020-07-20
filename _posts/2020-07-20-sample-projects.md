@@ -52,7 +52,8 @@ Sign 2 Speech provides a communication solution to hearing impaired or mute peop
 
 The gesture recognition was done based on the electromyography (EMG) sensors present in Myo armband. The arm band could be used to detect gestures based on the muscle movement and these gestures could be customized by the user. The gestures once recognized would trigger the speech using a portable speaker or the smartphone.
 
-You can watch a short demo of it being used by speech impaired people. <iframe width="560" height="315" src="//www.youtube.com/embed/i0AWo0em9J4" frameborder="0"> </iframe>
+You can watch a short demo of it being used by speech impaired people.
+ <iframe width="560" height="315" src="//www.youtube.com/embed/i0AWo0em9J4" frameborder="0"> </iframe>
 
 The project was adjudeged as one of the best projects in the cohort.
 
@@ -90,3 +91,20 @@ This project was one of the best projects at the hackathon :)
 </figure>
 
 You can read more about it on the [project page](https://devpost.com/software/viewfainder)
+
+
+Message Hub
+------
+We have a ton of messages across different messaging platforms like Whatsapp, Facebook Messenger, Telegram, Instagram, Slack, etc. It is a pain to find something that you discussed with a friend some time ago. We developed a hub for your messages that help you in finding all the messages that you send instantly. It also stores the important information from the messages for later retrieval.
+
+We built an app that captures messages from different messaging applications like Telegram & Slack. The messages are analysed for their content & tagged. In the hub, you can visualize all your historic communication across different platforms over time including times of peak exchange in a heat map. Hovering on the peaks gives you more information about the exchange including the summaries and contents of the exchange. In addition, it can give you an overview of the locations on Here maps. Also packed in is a powerful search powered by Algolia to get the messages by content. Appointments agreed upon are also saved as an event on the platform.
+
+<figure class="half">
+    <img src="/assets/img/projects/message_hub.jpg">
+    <img src="/assets/img/projects/message_hub2.jpg">
+    <figcaption>Message Hub</figcaption>
+</figure>
+
+This project was awared the best project using [Algolia](https://www.algolia.com/) at the [jacobsHack!](https://jacobshack.com/). 
+
+More can be read about the project on the [project page](https://devpost.com/software/message-hub)
