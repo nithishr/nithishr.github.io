@@ -32,12 +32,15 @@ Just a Little Longer: Hardware based Parental Control System for Kids
 -----
 This was developed over the weekend during Code TwentyFour, hackathon organized by ProSieben in Munich. JaLL enables kids to consume content on smartphones or smart TVs using physical coins based on NFC similar to a piggy bank. Parents could monitor and set limits on what content could be consumed by the kids. 
 
-<figure>
+This project was adjudged the best project at the hackathon :)
+
+<figure class="half">
     <img src="/assets/img/projects/jall.jpg">
-    <figcaption>Piggybank for coins</figcaption>
+    <img src="/assets/img/projects/jall_ui.jpg">
+    <figcaption>Piggybank for coins and the Jall interface</figcaption>
 </figure>
 
-JaLL being tested by prospective consumer. Sorry, the audio is partially in German. 
+JaLL being tested by prospective consumer. The audio is partially in German. 
 <iframe width="560" height="315" src="//www.youtube.com/embed/XDhffYlrn9A" frameborder="0"> </iframe>
 
 You can read more about it on the [project page](https://devpost.com/software/just-a-little-longer)
