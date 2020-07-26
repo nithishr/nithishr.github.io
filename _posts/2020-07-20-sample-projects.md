@@ -17,9 +17,9 @@ feature: /assets/img/projects/project_feature.jpg
 
 Ariadne: Lifehack for the Munich Public Transportation
 -----
-Google Maps / MVV (Munich Public Transportation) can give you the directions to your destination. But once you arrive at the destination, especially using the Metro / Suburban Rail, there is a multitude of exits. Choosing an exit among the choices is not trivial at all times. This could take up to 5-10 minutes per journey.
+Google Maps / MVV (Munich Public Transportation) can give you the directions to your destination. But once you arrive at the destination, especially using the Metro / Suburban Rail, there is a multitude of exits. Choosing an exit among the choices is not trivial at all times. This could cost up to 5-10 minutes per journey.
 
-We built Ariadne which suggests the closest exits to your destination for the public transportation. It also recommends the part of the train you need to board to be close to the suggested exit. The users can provide feedback about the suggestions that can improve the system. Additionally, we developed the ability to navigate indoors without the use of any infrastructure using mobile phone sensors. 
+We built Ariadne which suggests the closest exits to your destination for the public transportation. It also recommends the part of the train you need to board to be close to the suggested exit. The users can provide feedback about the suggestions that can further improve the system. Additionally, we developed the ability to navigate indoors without the use of any infrastructure using mobile phone sensors. 
 
 This project was developed initially during the [hackatum](https://hack.tum.de/), the annual hackathon from Technical University of Munich. Based on the positive feedback we received, we pursued it further including pitching it to some business customers like the German rail company, Deutsche Bahn. We also secured 2nd place in the [Mobility Innovation Competition @ Campus](http://zentrum-digitalisierung.bayern/micc-mobility-innovation-competition-campus-2017/) held by the Center for Digitalization, Bavaria State. 
 
@@ -34,7 +34,9 @@ A prototypical voice skill was also tested for Ariadne. It was implemented mainl
 
 Hodor: Controlling the office door from the Internet
 -----
-At [KI labs](www.ki-labs.com), we faced the problem of shortage of keys. To solve this problem, we connected the intercom system in the office to the internet using a Raspberry Pi which could then be controlled from Slack. It was interesting to see this turning into a platform of sorts with multiple teams working on further integrations like mobile apps, face detection based authentication, etc.
+At [KI labs](www.ki-labs.com), we faced the problem of shortage of keys. To solve this problem, we connected the intercom system in the office to the internet using a Raspberry Pi which could then be controlled from Slack. 
+
+It was also interesting to see this turning into a platform of sorts with multiple teams working on further integrations like mobile apps, face detection based authentication, etc.
 
 <figure>
     <img src="/assets/img/projects/hodor.jpeg">
@@ -43,7 +45,7 @@ At [KI labs](www.ki-labs.com), we faced the problem of shortage of keys. To solv
 
 You can read more about it on the [blog post](https://medium.com/ki-labs-engineering/hodor-controlling-the-office-door-from-slack-a79e77635e39)
 
-[Code](https://github.com/nithishr/Hodor)
+[Code](https://github.com/KI-labs/Hodor)
 
 
 Sign 2 Speech: Sign Language Interpretation for Speech Impaired
@@ -61,7 +63,7 @@ Just a Little Longer: Hardware based Parental Control System for Kids
 -----
 This was developed over the weekend during Code TwentyFour, the hackathon organized by ProSieben in Munich. JaLL enables kids to consume content on smartphones or smart TVs using physical coins based on NFC similar to a piggy bank. Parents could monitor and set limits on what content could be consumed by the kids. 
 
-The NFC based tokens were read by the reader placed inside the piggybank and allowed kids to consume mdeia for the specified amount of time. The content was played inside a frontend which enabled us to control the media playback based on the validity of tokens governed by a backend API.
+The NFC based tokens were read by the reader placed inside the piggybank and allowed kids to consume media for the specified amount of time. The content was played inside a frontend which enabled us to control the media playback based on the validity of tokens governed by a backend API.
 
 This project was adjudged the best project at the hackathon :)
 

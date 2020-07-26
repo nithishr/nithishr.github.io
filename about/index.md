@@ -12,7 +12,7 @@ published: true
     <img src="https://nithishr.com/assets/img/pic.jpg">
 </figure>
 
-#### I am Nithish, an Engineer with a background in diverse areas including Software Engineering, Dev Ops, Lean Startups, Design Thinking, Data Engineering, Machine Learning & Building Communities.  I love to build products that solve real problems in short spans of time. In my free time, I like to read, hack stuff, attend local tech events, travel & follow Olympic sports.
+#### I am Nithish, an Engineer with a background in diverse areas including Software Engineering, Dev Ops, Developer Relations, Data Engineering, Lean Startups, Design Thinking, Machine Learning & Building Communities.  I love to build products that solve real problems in short spans of time. In my free time, I like to read, hack stuff, attend local tech events, travel & follow Olympic sports.
 
 #### Originally from Kochi in India, I came to Munich, Germany for my Masters in Computer Science from the [Technical University of Munich](https://www.in.tum.de/en/cover-page/). 
 
@@ -26,7 +26,7 @@ published: true
 
 #### I love to read. My current preferences are mostly non-fiction & autobiographies. Some of my favourite books include _Thinking, Fast and Slow by Daniel Kahneman_, _Zero to One by Peter Thiel_, _The Hard Thing About Hard Things by Ben Horowitz_, _A Shot At History: My Obsessive Journey to Olympic Gold by Abhinav Bindra & Rohit Brijnath_, _Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think by the Rosling Family_. Among fiction, I am a die-hard Harry Potter fan & also read a lot of Enid Blyton in my school days. I also enjoyed the initial works of Dan Brown & the Robert Galbraith series which I find too monotonous now.
 
-#### Travelilng is another of my hobbies. I like to explore different places. I love the walking tours of cities as they give you an overview of the city for you to further explore the city. Some of my favourite places to travel include Geneva, London, Venice, Hamburg, Budapest, Mumbai. 
+#### Travelling is another of my hobbies. I like to explore different places. I love the walking tours of cities as they give you an overview of the city for you to further explore the city. Some of my favourite places to travel include Geneva, London, Venice, Hamburg, Budapest, Mumbai. 
 
 #### I like to follow the Olympic sports & would love to watch it in person one day. I follow the progress of most of the Indian athletes competing in different Olympic sports. My favourite sports to follow include Shooting, Badminton, Field Hockey, Athletics, Archery, Wrestling, Archery & Boxing. Apart from the Olympic sports, I also follow Formula 1 & Tennis at the international level. I have covered tennis tournaments for [Indian Tennis Daily](https://indiantennisdaily.com/author/nithishr/). I love to play Table Tennis & Badminton apart from Scrabble. I have in the past won the State championships in Scrabble in my home state of Kerala in India.
 
