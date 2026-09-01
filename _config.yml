@@ -1,7 +1,7 @@
 # Site
 title:              Nithish Raghunandanan
-bio:                'An all-round Engineer who loves to build cool products over short spans of time.'
-description:        "Working at the intersection of Data, Software & Communities"
+bio:                'Developer Relations Engineer who loves to build cool products over short spans of time.'
+description:        "Working at the intersection of AI, Software & Communities"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,7 +37,7 @@ google:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+# email: hi@nithishr.com
 # facebook:           username
 linkedin:           nithishr
 github-url:         nithishr
