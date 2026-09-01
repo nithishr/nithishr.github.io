@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Projects"
-date:   2018-02-20
+date:   2026-08-30
 excerpt: "A selection of some fun projects / ideas"
 project: true
 tag:
@@ -14,6 +14,101 @@ tag:
 comments: false
 feature: /assets/img/projects/project_feature.jpg
 ---
+
+Couchbase MCP Server
+-----
+
+The Model Context Protocol (MCP) server for Couchbase lets LLMs and AI agents
+connect to and work with data in Couchbase clusters directly. I led the
+development of the project, which grew from a community effort into an
+officially supported Couchbase product.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sU40zTRjWcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Code](https://github.com/couchbase/mcp-server-couchbase)
+
+[Documentation](https://docs.couchbase.com/mcp-server/get-started/overview.html)
+
+Couchbase Assistant
+-----
+
+I led the team that built the Couchbase Assistant, an internal assistant that
+answers Couchbase-related questions, including generating SQL++ queries.
+
+A related public experiment of mine explores generating SQL++ queries for
+Couchbase using an agent.
+
+<figure class="half">
+    <img alt="The SQL++ agent turning a natural language question into a query" src="/assets/img/projects/sqlpp_agent_app.png">
+    <img alt="The agent graph behind the SQL++ agent" src="/assets/img/projects/sqlpp_agent_graph.jpg">
+    <figcaption>The SQL++ agent and the graph that drives it</figcaption>
+</figure>
+
+[SQL++ Agent](https://github.com/nithishr/sql_plus_plus_agent)
+
+Image Generation Experiments
+-----
+
+A set of experiments with generative image models. These include personalized
+image generation using a fine-tuned FLUX model with prompt refinement handled
+by a local LLM running on Ollama, and a virtual camera that generates images
+from live location & weather data.
+
+<figure class="half">
+    <img alt="Personalized image generation using a fine-tuned FLUX model" src="/assets/img/projects/flux_fine_tuning.jpg">
+    <img alt="Virtual camera generating images from live location and weather data" src="/assets/img/projects/virtual_camera.jpg">
+    <figcaption>The fine-tuned FLUX app and the virtual camera</figcaption>
+</figure>
+
+[Code](https://github.com/nithishr/image_gen_experiments)
+
+Streamlit Demo Applications
+-----
+
+A pair of open-source demo applications built with Streamlit that have been
+picked up by the Streamlit community. The first visualizes travel data from
+Google Maps Timeline alongside photos from Flickr. The second is a user
+interface for an ImageNet image classifier.
+
+These demos are the basis for several of my [talks]({% post_url 2020-07-20-talks %})
+on building data apps in pure Python.
+
+You can watch short demos of both applications.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFIviSlB4ZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1y1o4XoFIuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Travel Visualization](https://github.com/nithishr/streamlit-data-viz-demo)
+
+[ImageNet Classifier UI](https://github.com/nithishr/streamlit-ml-demo)
+
+Machine Learning with Couchbase Python UDFs
+-----
+
+An example of running machine learning inference inside the database using the
+Python User Defined Functions in Couchbase.
+
+<figure>
+    <img alt="Application interfacing with the ML model running inside the database" src="/assets/img/projects/ml_couchbase_udf.png">
+    <figcaption>Interfacing with the ML model running on the database</figcaption>
+</figure>
+
+[Code](https://github.com/nithishr/machine_learning_couchbase)
+
+Visualizing Google Location History with Geospatial Queries
+-----
+
+A project that visualizes your Google Location History using the geospatial
+querying capabilities of Couchbase.
+
+<figure class="half">
+    <img alt="Countries visited, visualized from Google Location History" src="/assets/img/projects/location_countries.jpg">
+    <img alt="Cities visited, visualized from Google Location History" src="/assets/img/projects/location_cities.jpg">
+    <figcaption>Countries and cities derived from location history</figcaption>
+</figure>
+
+[Code](https://github.com/nithishr/visualize-location-history)
 
 Ariadne: Lifehack for the Munich Public Transportation
 -----
